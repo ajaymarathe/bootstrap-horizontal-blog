@@ -1,0 +1,37 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins);
+body {
+  font-family: "Poppins", sans-serif;
+}
+.blog {
+  margin-right: 1px;
+  margin-left: 1px;
+}
+.blog-img {
+  width: 100%;
+}
+.font-w-700 {
+  font-weight: 700;
+}
+.blog-category {
+  font-size: 0.75rem;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.blog-title {
+  font-size: 1.5625rem;
+  line-height: 1.4em;
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+  margin-top: 0.625rem;
+}
+
+.blog-description a {
+  text-decoration: none;
+}
+
+.blog-author a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
